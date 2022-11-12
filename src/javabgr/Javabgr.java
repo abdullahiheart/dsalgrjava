@@ -9,6 +9,7 @@ package javabgr;
  *
  * @author abdal
  */
+import java.util.Scanner;
 public class Javabgr {
 
     /**
@@ -16,7 +17,22 @@ public class Javabgr {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("abdullahi Heart");
+        Scanner input = new Scanner (System.in);
+        /*System.out.println(input.nextLine());
+       int heart =64;
+       char letter ='h';
+       float mark =98.67f;
+       double large = 4455322133.334;
+       long largeint =45332211;
+       boolean check =false;
+        System.out.println("Fadlan soo gali Numbar kada: ");
+       int heart = input.nextInt();
+        System.out.println("waa roll numbar kada "+heart);*/
+        String name = input.nextLine();
+        System.out.println(name);
+        
+       
+       
     }
     
 }
