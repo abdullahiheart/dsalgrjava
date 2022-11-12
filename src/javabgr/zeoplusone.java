@@ -11,7 +11,7 @@ package javabgr;
  */
 public class zeoplusone {
     public static void main(String []args){
-    int num = 4;
+    int num = 3;
         long factorial = 1;
         for(int i = 1; i <= num; ++i)
         {
