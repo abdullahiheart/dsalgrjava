@@ -11,6 +11,8 @@ package javabgr;
  */
 public class smallprogram {
     public static void main (String[]args){
+        
+    }
         /*int x=0;
         int y=80;
         do {
