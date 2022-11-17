@@ -1,6 +1,5 @@
-#dsalgrothims java
-#second commit
-third commit
-#today practice & assingment
-@today more practice
-#today practice
+I've started DSA course With Kunal
+Start Date
+November 7th, 2022
+
+This repository contains the course details, examples ,assignments ,challenges and solve proplems.
